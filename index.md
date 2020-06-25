@@ -6,3 +6,11 @@ Für die Herstellung der Geschenke sind ja bekanntlich die Wichtel zuständig, d
 Er wollte sich gerne ein wenig im Grünen aufhalten und bewarb sich um eine Parzelle in einer Kleingartenanlage.
 Da freie Parzellen aber Mangelware sind, darf er erst einmal bei uns die Pflanzen gießen und Unkraut jäten.
 Es scheint ihm zu gefallen...
+
+## Der Weihnachtsmann ist
+* freundlich
+* hilfsbereit
+* arbeitsam
+* unterhaltsam
+* bärtig
+
